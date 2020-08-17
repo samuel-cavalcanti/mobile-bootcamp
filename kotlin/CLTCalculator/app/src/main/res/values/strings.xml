@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CLTCalculator</string>
+    <string name="number_of_dependents">Número de dependentes</string>
+
+    <string name="calculate_clt">Calcular CLT</string>
+    <string name="empty_field">Esse campo não pode estar em branco</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="brute_salary">Salário Bruto </string>
+    <string name="inss">INSS </string>
+    <string name="irrf">IRRF </string>
+    <string name="another_discounts">Outros Descontos </string>
+    <string name="liquid_salary">Salário Líquido </string>
+    <string name="discounts">Descontos</string>
+
+    <string name="back">Voltar</string>
+</resources>

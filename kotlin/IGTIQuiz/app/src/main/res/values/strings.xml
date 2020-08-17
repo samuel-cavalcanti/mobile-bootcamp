@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IGTI Quiz</string>
+    <string name="empty_description" />
+    <string name="true_action">Verdadeiro</string>
+    <string name="false_action">Falso</string>
+    <string name="card_title">Responda Verdadeiro ou Falso</string>
+    <string name="correct_answer">Acertou !!</string>
+    <string name="wrong_answer">Errou!!</string>
+    <string name="restart">Reiniciar</string>
+</resources>
