@@ -1,6 +1,6 @@
 # Android APPs Ridiculamente simples
 
-## projetinhos
+## vergonhas feitas em:
 
 ### Kotlin
 
