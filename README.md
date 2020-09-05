@@ -12,3 +12,5 @@
 ### Dart
 
 - [Conversor de Reais para Dólares](dart/dollarExchange)
+
+- [Galeria Simulator](dart/gallery_placeholder_app) 
